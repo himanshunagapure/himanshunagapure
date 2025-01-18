@@ -1,7 +1,7 @@
 <img align="center" alt="Banner" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/475eb095746151.5e9ecde695f7a.gif">
 
 <h1 align="center">Hi 👋, I'm Himanshu Nagapure</h1>
-<h3 align="center">An aspiring Data Scientist from India</h3>
+<h3 align="center">An aspiring Data Scientist and AI/ML Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshunagapure&label=Profile%20views&color=0e75b6&style=flat" alt="himanshunagapure" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **himunagapure114@gmail.com**
 
-- ⚡ Fun fact **I am friendly and fun to be around.**
+- ⚡ Fun fact **I’m an avid problem-solver who believes in lifelong learning. Moreover I am friendly and fun to be around.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +25,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshunagapure&show_icons=true&locale=en&layout=compact" alt="himanshunagapure" /></p>
 
+🎓 Education
+Government College of Engineering, Nagpur
+B.E in Computer Science | July 2022 | CGPA: 9.5/10
+
+🏆 Achievements & Certifications
+- Certifications: AWS Cloud Practitioner, Machine Learning, HackerRank Python (Basic)
+- Achievements: National Taekwondo Player
