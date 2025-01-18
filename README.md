@@ -3,15 +3,18 @@
 <h1 align="center">Hi 👋, I'm Himanshu Nagapure</h1>
 <h3 align="center">An aspiring Data Scientist and AI/ML Enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=himanshunagapure&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 ### 🌟 About Me
+Hi there! 👋 I'm Himanshu Nagapure,
+An aspiring Data Scientist and AI/ML Enthusiast from India. My journey into this field started with my love for solving problems and the thrill of learning something new every day. I genuinely enjoy diving into data, uncovering patterns, and building solutions that actually make a difference. 
+
+I’m excited about the possibilities of how AI and ML can change the functioning of the world dynamics. I love the idea of using them to solve real-world problems. It’s a field that never stops evolving, and that keeps me motivated to keep learning and growing.
 
 - 🌱 **Currently Learning:** AI/ML and AWS Cloud  
 - 💬 **Ask Me About:** Python, Machine Learning, and AWS Cloud  
