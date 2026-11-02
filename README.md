@@ -21,11 +21,11 @@
 
 ```python
 class Himanshu:
-    role      = "AI Engineer (Generative AI) @ AIQoD"
+    role      = "AI Engineer (Generative AI)"
     based_in  = "Nagpur, Maharashtra, India"
     education = "B.E. Computer Science, GCOE Nagpur (2022)"
-    focus     = ["Agentic AI", "Multi-agent orchestration", "RAG pipelines", "MCP"]
-    stack     = ["Python", "LangGraph", "FastAPI", "AWS"]
+    focus     = ["Agentic AI", "Multi-agent orchestration", "RAG pipelines", "MCP", "Backend Services", "Database Management"]
+    stack     = ["Python", "LangGraph", "FastAPI", "AWS", "SQL", "NoSQL"]
     certified = ["AWS Certified Cloud Practitioner", "Machine Learning (Coursera)"]
 
     def building(self):
