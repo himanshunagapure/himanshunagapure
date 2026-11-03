@@ -1,0 +1,28 @@
+name: Generate profile summary cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: himanshunagapure
+          # themes: tokyonight, github, github_dark, dracula, nord_dark, solarized
+          # This action generates SVGs and commits them to the output branch
+          # Files land at:
+          #   output/profile-summary-card-output/tokyonight/0-profile-details.svg
+          #   output/profile-summary-card-output/tokyonight/2-most-commit-language.svg
+          #   output/profile-summary-card-output/github/0-profile-details.svg  (light)
+          #   output/profile-summary-card-output/github/2-most-commit-language.svg
