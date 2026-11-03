@@ -111,26 +111,22 @@ Led a team building real-time location tracking and optimized pathfinding for ca
 
 ## 🛠️ Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 AI / Generative AI
 
-<img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square&logo=langchain&logoColor=white">
-<img src="https://img.shields.io/badge/LangChain-1C1C1C?style=flat-square&logo=langchain&logoColor=white">
-<img src="https://img.shields.io/badge/CrewAI-1C1C1C?style=flat-square">
-<img src="https://img.shields.io/badge/AI_Agents-1C1C1C?style=flat-square">
-<img src="https://img.shields.io/badge/MCP-1C1C1C?style=flat-square">
-<img src="https://img.shields.io/badge/RAG-1C1C1C?style=flat-square">
-<img src="https://img.shields.io/badge/LLMs-1C1C1C?style=flat-square">
-<img src="https://img.shields.io/badge/Prompt_Engineering-1C1C1C?style=flat-square">
-<img src="https://img.shields.io/badge/Vector_Search-1C1C1C?style=flat-square">
-<img src="https://img.shields.io/badge/Embeddings-1C1C1C?style=flat-square">
-
-### 🧠 Machine Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy&theme=dark">
+<img src="https://img.shields.io/badge/LangGraph-20232A?style=flat-square&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-20232A?style=flat-square&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/CrewAI-20232A?style=flat-square">
+<img src="https://img.shields.io/badge/AI_Agents-20232A?style=flat-square">
+<img src="https://img.shields.io/badge/MCP-20232A?style=flat-square">
+<img src="https://img.shields.io/badge/RAG-20232A?style=flat-square">
+<img src="https://img.shields.io/badge/LLMs-20232A?style=flat-square">
+<img src="https://img.shields.io/badge/Prompt_Engineering-20232A?style=flat-square">
+<img src="https://img.shields.io/badge/Vector_Search-20232A?style=flat-square">
+<img src="https://img.shields.io/badge/Embeddings-20232A?style=flat-square">
 
 </td>
 <td width="50%" valign="top">
@@ -139,27 +135,44 @@ Led a team building real-time location tracking and optimized pathfinding for ca
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,flask&theme=dark">
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Machine Learning & Data Science
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy&theme=dark">
+
+</td>
+<td width="50%" valign="top">
+
 ### 🗄️ Databases & Vector Stores
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark">
 
-<img src="https://img.shields.io/badge/Pinecone-1C1C1C?style=flat-square">
-<img src="https://img.shields.io/badge/ChromaDB-1C1C1C?style=flat-square">
+<br>
 
-### 🎨 Frontend
+<img src="https://img.shields.io/badge/Pinecone-20232A?style=flat-square">
+<img src="https://img.shields.io/badge/ChromaDB-20232A?style=flat-square">
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=angular,react,html,css&theme=dark">
 
 </td>
-</tr>
-<tr>
-<td colspan="2">
+<td width="50%" valign="top">
 
-### ☁️ Cloud, DevOps & Developer Tools
+### ☁️ Cloud, DevOps & Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,linux&theme=dark">
-</p>
 
 </td>
 </tr>
