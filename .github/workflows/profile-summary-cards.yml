@@ -4,8 +4,6 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write
@@ -13,16 +11,15 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    name: generate-github-profile-summary-cards
     steps:
+      - uses: actions/checkout@v4
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: himanshunagapure
-          # themes: tokyonight, github, github_dark, dracula, nord_dark, solarized
-          # This action generates SVGs and commits them to the output branch
-          # Files land at:
-          #   output/profile-summary-card-output/tokyonight/0-profile-details.svg
-          #   output/profile-summary-card-output/tokyonight/2-most-commit-language.svg
-          #   output/profile-summary-card-output/github/0-profile-details.svg  (light)
-          #   output/profile-summary-card-output/github/2-most-commit-language.svg
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 5
